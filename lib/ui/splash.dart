@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:test_project/ui/app_base.dart';
 
 import '../app_constants/app_data.dart';
 import '../widgets/flutter_videoplayer_widget.dart';

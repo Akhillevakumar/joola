@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'package:test_project/ui/app_base.dart';
 import 'package:test_project/ui/no_internet.dart';
 import 'package:test_project/ui/splash.dart';
 
 import 'provider/connection_check_provider.dart';
-import 'ui/dashboard_screen.dart';
 
 void main() {
   runApp(
